@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.12)
+cmake_minimum_required(VERSION 4.0.2)
 
 set(PROJECT_NAME estimator_demo)
 project(${PROJECT_NAME})

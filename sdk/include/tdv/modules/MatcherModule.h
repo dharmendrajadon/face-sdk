@@ -1,9 +1,9 @@
 #ifndef MATCHERMODULE_H
 #define MATCHERMODULE_H
 
-#include <opencv2/core.hpp>
-#include <opencv2/highgui.hpp>
-#include <opencv2/imgproc.hpp>
+#include <opencv4/core.hpp>
+#include <opencv4/highgui.hpp>
+#include <opencv4/imgproc.hpp>
 
 #include <functional>
 #include <queue>

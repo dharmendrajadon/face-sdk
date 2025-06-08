@@ -4,8 +4,8 @@
 #include <new>
 #include <tuple>
 
-#include <opencv2/core.hpp>
-#include <opencv2/imgproc.hpp>
+#include <opencv4/core.hpp>
+#include <opencv4/imgproc.hpp>
 
 #include <tdv/data/ContextUtils.h>
 #include <tdv/modules/ONNXModule.h>

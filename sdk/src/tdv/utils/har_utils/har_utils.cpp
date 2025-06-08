@@ -1,6 +1,6 @@
 #include <tdv/data/JSONSerializer.h>
-#include <opencv2/core.hpp>
-#include <opencv2/imgproc.hpp>
+#include <opencv4/core.hpp>
+#include <opencv4/imgproc.hpp>
 #include <fstream>
 #include <map>
 #include <string>
