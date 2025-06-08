@@ -1,7 +1,7 @@
 #ifndef TDV_DATA_CONTEXT_V2_CONTEXTUTILS_H_
 #define TDV_DATA_CONTEXT_V2_CONTEXTUTILS_H_
 
-#include <opencv2/core/mat.hpp>
+#include <opencv4/core/mat.hpp>
 
 #include <tdv/data/Context.h>
 

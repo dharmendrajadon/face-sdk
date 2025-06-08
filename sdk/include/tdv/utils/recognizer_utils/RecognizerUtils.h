@@ -1,7 +1,7 @@
 #ifndef TDV_DATA_RECOGNIZER_UTILS_H_
 #define TDV_DATA_RECOGNIZER_UTILS_H_
 
-#include <opencv2/core/mat.hpp>
+#include <opencv4/core/mat.hpp>
 #include <tdv/data/Context.h>
 
 

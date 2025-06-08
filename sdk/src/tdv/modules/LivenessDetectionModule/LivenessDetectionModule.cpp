@@ -1,13 +1,13 @@
-#include <opencv2/core.hpp>
-#include <opencv2/imgproc.hpp>
-#include <opencv2/highgui.hpp>
+#include <opencv4/core.hpp>
+#include <opencv4/imgproc.hpp>
+#include <opencv4/highgui.hpp>
 
 #include <tdv/data/ContextUtils.h>
 #include <tdv/modules/LivenessDetectionModule/LivenessDetectionModule.h>
 #include <tdv/modules/LivenessDetectionModule/LivenessBaseModule.h>
 #include <tdv/utils/rassert/RAssert.h>
 #include <math.h>
-#include <opencv2/core.hpp>
+#include <opencv4/core.hpp>
 
 namespace {
 cv::Mat blobFromImage(cv::Mat& image, int nchannel = 3, const int ddepth=CV_32F) 
